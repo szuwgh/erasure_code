@@ -1,2 +1,2 @@
-# erasure_code
+# reedsolomon-rs
 Reed-Solomon code 
